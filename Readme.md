@@ -51,7 +51,3 @@ A simple REST API for managing books and reviews, with JWT-based authentication.
 
 - Used Mongoose indexing to enforce one-review-per-user-per-book
 - Decoupled routes and controllers for clarity and reusability
-
-🧪 Sample API Requests
-📌 Signup
-POST /api/auth/signup
